@@ -24,8 +24,8 @@ The goal was to provide data-driven insights to the CEO and CMO of a retail busi
 
 ## 📷 Preview
 
-![Dashboard Preview](![Screenshot 2025-06-18 173229](https://github.com/user-attachments/assets/ee9978e4-0c24-4a40-988c-7d9b6a0e2fbc)
-)
+![Dashboard Preview]![Screenshot 2025-06-18 173229](https://github.com/user-attachments/assets/ee9978e4-0c24-4a40-988c-7d9b6a0e2fbc)
+
 
 
 
@@ -43,7 +43,6 @@ The goal was to provide data-driven insights to the CEO and CMO of a retail busi
 ## 📂 Files Included
 
 - `TATA_Retail_Dashboard.pbix` – Power BI file
-- `images/dashboard-preview.png` – Preview image
 
 ---
 

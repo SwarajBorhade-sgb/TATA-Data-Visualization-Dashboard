@@ -50,6 +50,6 @@ The goal was to provide data-driven insights to the CEO and CMO of a retail busi
 
 **Swaraj Borhade**  
 📧 borhadeswaraj01@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/swaraj-borhade-921a411a4/))  
 
 
